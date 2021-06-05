@@ -1,18 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /blog/about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+WELCOME! I hope you’re not finding this at 3 am because you can’t sleep - but hopefully now that you have, we can make late night web surfing a thing of the past!!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Katie and I’m a healthcare worker of the millennial generation. In 2006 I was diagnosed with Restless Legs Syndrome and I’ve been tossing and turning ever since 😉.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+As someone with a medical background, I’ve searched for explanations and treatments and longed for answers to this diagnosis that was quite literally keeping me up at night (note: I am NOT a doctor, and this blog is not to provide medical advice).
 
-
-[jekyll-organization]: https://github.com/jekyll
+SO – I’ve started this site as a place for others dealing with Restless Leg Syndrome to come to get information, support, coping strategies, etc. Hopefully we can build a WELL RESTED community!
