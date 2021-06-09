@@ -1,2 +1,5 @@
-# twrc.github.io
-The Well Rested Blog
+# The Well Rested Blog
+
+# Starting a Local Instance
+bundle exec jekyll serve
+
