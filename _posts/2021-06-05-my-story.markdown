@@ -1,9 +1,15 @@
 ---
 layout: single
 title:  "My Story"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/posts/2021-06-05-my-story.png
 date:   2021-06-05 20:59:41 -0230
 categories: blog
+excerpt: "A little about me and my history with RLS."
 ---
+
 
 In 2006 I was working in the fitness/healthcare world as a Kinesiologist when I got word that I had not been accepted to the Physiotherapy program I had applied to. As an early 20-something, I hadn’t really known stress until that moment in my life. My path for the next 2 years had been bulldozed and I had nothing else planned.
 
